@@ -1,0 +1,7 @@
+Vamos clonar esse repositório do GitHub;
+Com o repositório na clonado;
+Criem uma branch com o nome completo de vocês. Exemplo: mateus-hortencio-dos-santos;
+Então, no Visual Studio Code,  siga as instruções do único arquivo do repositório;
+Depois no terminal, leve essa alteração até a remote branch;
+Faça um merge da branch main com a branch local de vocês.
+Isso causará um conflito de merge, resolva o conflito de merge e suba esse código para o GitHub novamente!
