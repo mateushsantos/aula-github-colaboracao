@@ -1,5 +1,5 @@
 # aula-github-colaboracao
 
-Yasmin gonçalves de souza
+Escreva aqui o seu nome: Yasmin Gonçalves de souza
 
-19 de junho de 2023
+Escreva aqui o dia de hoje: 19 de junho 2023
